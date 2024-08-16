@@ -34,7 +34,7 @@
                 document.body.style.display = "block";
             } else {
                 alert("Incorrect passcode. Access denied.");
-                window.location.href = "https://sustainair.tech"; 
+                window.location.href = "https://policy.sustainair.tech"; 
             }
         }
 
